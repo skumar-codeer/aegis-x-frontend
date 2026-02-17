@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-import Sidebar from "./components/Sidebar";
+import SideBar from "./components/SideBar";
 import TopBar from "./components/TopBar";
 import ThreatFeed from "./components/ThreatFeed";
 
