@@ -1,4 +1,4 @@
-export default function Sidebar({
+export default function SideBar({
   active,
   setActive,
   collapsed,
